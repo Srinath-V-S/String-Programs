@@ -10,7 +10,7 @@ Input : 199.7
 Output : String
 Explanation : A dot is present. 
 
-Input : 122B
+Input : 122A
 Output : String
 Explanation : A alphabet is present.
 
