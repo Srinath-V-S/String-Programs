@@ -1,9 +1,9 @@
 /*
 Pangrammatic Lipogram:
 A pangrammatic lipogram is a text that uses every letter of the alphabet except one. 
-For example, ìThe quick brown fox jumped over the lazy dogî omits the letter S, which the usual pangram includes by using the word jumps.
+For example, ‚ÄúThe quick brown fox jumped over the lazy dog‚Äù omits the letter S, which the usual pangram includes by using the word jumps.
 
-Given a string, our task is to check whether this string is a pangrammatic lipogram or not
+Given a string, our task is to check whether this string is a pangrammatic lipogram or not.
 */
 
 
