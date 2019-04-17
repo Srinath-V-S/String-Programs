@@ -1,5 +1,6 @@
 /* 
-Given two strings, copy one string to other using recursion. We basically need to write our own recursive version of strcpy in C/C++
+Given two strings, copy one string to other using recursion.
+We basically need to write our own recursive version of strcpy in C/C++.
 Input : s1 = "hello"
         s2 = "geeksforgeeks"
 Output : s2 = "hello"
