@@ -25,6 +25,7 @@ bool missingCharactersInPangram(string &str){
 	bool characters[26] = {false};
 	int index;
 	for(int i=0;i<str.length();i++){
+		
 		// traverse all characters
 		
 		// if it is uppercase subtract the index from 'A'
